@@ -1,0 +1,22 @@
+# Unreal Engine folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+
+# Visual Studio files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build files
+Build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
